@@ -2,6 +2,6 @@ SOLID principles ->
 
 S -> Single Responsibility
 O -> Open/Closed principle - Open for extension, closed for modification
-L -> Liskov Substitution - Parent class should be able to replaceble by child class - Meaning all the methods in parent class must work in child class.
+L -> Liskov Substitution - Parent class should be able to replace all child classes - Meaning all the methods in parent class must work in child class.
 I - Interface Segmentation - Classes should not be forced to implement the all methods in interface. If needed create a new interface and use this.
 D - Dependency Inversion - Always code in abstraction means with Interface
